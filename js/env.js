@@ -1,5 +1,5 @@
 /**
- * 获取环境信息
+ * 获取环境信息Util
  * Created by candice on 16/7/13.
  */
 
